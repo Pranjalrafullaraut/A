@@ -2,9 +2,9 @@
 using namespace std;
 int main()
 {
-int a=3, b=5;
-int sum;
-sum=a+b;
-cout<<"sum is"<<sum;
+int a=8, b=5;
+int sub;
+sub=a-b;
+cout<<"sub is"<<sub;
 return 0;
 }
